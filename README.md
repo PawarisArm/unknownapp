@@ -3,6 +3,7 @@ This is an unknown application written in Java
 
 ---- For Submission (you must fill in the information below) ----
 ### Use Case Diagram
+<img width="936" height="750" alt="image" src="https://github.com/user-attachments/assets/b416f82a-e34b-4b31-bb73-9e735e3c4e44" />
 
 
 ### Flowchart of the main workflow
